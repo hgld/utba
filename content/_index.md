@@ -3,14 +3,13 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Welcome!
+  title: Urban Toronto Beekeepers' Association
   section_id: hero
   component: hero_block.html
-  content: |-
-    SUSTAINABLE BEEKEEPING THROUGH EDUCATION AND MENTORSHIP
-
-    Sustainable beekeeping through education and mentorship
-  image: images/5.jpg
+  content: Welcome to the Urban Toronto Beekeepers' Association. Practicing sustainable
+    beekeeping, through education and mentorship to urban beekeepers located in the
+    greater Toronto region.
+  image: "/images/utbalogo-colour3-3.png"
   actions:
   - label: Become a member
     url: docs/index.html
