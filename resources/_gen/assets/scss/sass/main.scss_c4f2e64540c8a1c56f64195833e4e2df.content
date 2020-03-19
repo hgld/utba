@@ -790,7 +790,7 @@ img {
 .site-logo {
   margin: 0; }
   .site-logo img {
-    max-height: 36px; }
+    max-height: 90px; }
 
 .site-navigation {
   margin-left: auto; }
