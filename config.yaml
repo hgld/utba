@@ -25,10 +25,6 @@ params:
         accent2: '#4a00e0'
 menu:
   main:
-    - identifier: layouts
-      name: Sample Layouts
-      url: '#'
-      weight: 5
     - identifier: facebook
       name: Facebook Group
       url: 'https://www.facebook.com/groups/urbantorontobeekeepers/'
