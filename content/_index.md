@@ -12,7 +12,7 @@ sections:
   image: "/images/damien-tupinier-OFEvgVfr6iU-unsplash.jpg"
   actions:
   - label: Become a member
-    url: docs/index.html
+    url: /sub
 - type: featuresblock
   template: featuresblock
   section_id: features
