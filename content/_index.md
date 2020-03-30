@@ -9,7 +9,7 @@ sections:
   content: Welcome to the Urban Toronto Beekeepers' Association. Practicing sustainable
     beekeeping, through education and mentorship to urban beekeepers located in the
     greater Toronto region.
-  image: "/images/utbalogo-colour3-3.png"
+  image: "/images/damien-tupinier-OFEvgVfr6iU-unsplash.jpg"
   actions:
   - label: Become a member
     url: docs/index.html
