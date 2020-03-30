@@ -48,8 +48,8 @@
                 // a successful payment.
                 // Instead use one of the strategies described in
                 // https://stripe.com/docs/payments/checkout/fulfillment
-                successUrl: '/success',
-                cancelUrl: '/canceled',
+                successUrl: 'https://www.urbantorontobeekeepers.org/success',
+                cancelUrl: 'https://www.urbantorontobeekeepers.org/canceled',
               })
               .then(function (result) {
                 if (result.error) {
