@@ -2,7 +2,7 @@
 title: Welcome to Libris
 menu:
   main:
-    name: Docs
+    name: Resources
     weight: 2
 layout: docs
 ---

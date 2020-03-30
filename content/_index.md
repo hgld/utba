@@ -18,19 +18,18 @@ sections:
   section_id: features
   component: features_block.html
   featureslist:
-  - title: Documentation
+  - title: Beekeeping Resources
     content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
       a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
       ut tellus. Vivamus rhoncus mattis varius.
     actions:
-    - label: Get Started
+    - label: Learn more
       url: docs/index.html
-  - title: Blog
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+  - title: Monthly Meetings
+    content: Our meetings are generally held on the first Tuesday of every month at the University of Toronto - Department of Anthropology. Visit our Facebook Events Page for details on our next meeting.
     actions:
-    - label: View Posts
-      url: blog/index.html
+    - label: Next Meeting
+      url: https://www.facebook.com/groups/urbantorontobeekeepers/events/
   - title: Style Guides
     content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
       a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
@@ -40,62 +39,7 @@ sections:
       url: "/style-guide.html"
   title: ''
   subtitle: ''
-- type: contentblock
-  template: contentblock
-  title: A Section With An Image
-  section_id: text-img
-  component: content_block.html
-  content: Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-    cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum consectetur
-    lobortis.
-  image: images/10.jpg
-  actions:
-  - label: View Demo
-    url: "/docs/getting-started/index.html"
-  - label: Get Started
-    url: "/docs/getting-started/index.html"
-- type: featuresblock
-  template: featuresblock
-  title: Sample Layouts
-  section_id: features-two-col
-  component: features_block.html
-  subtitle: An optional subtitle of the section
-  featureslist:
-  - title: Overview
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula,
-      cursus id molestie vel, maximus aliquet risus. Vivamus in nibh fringilla, fringilla
-      tortor at, pulvinar orci.
-    actions:
-    - label: Learn More
-      url: "/overview.html"
-  - title: Showcase
-    content: Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-      a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
-      ut tellus. Vivamus rhoncus mattis varius.
-    actions:
-    - label: Learn More
-      url: "/showcase.html"
-- type: ctablock
-  template: ctablock
-  title: The Title of The Call to Action Block
-  section_id: cta
-  component: cta_block.html
-  subtitle: This is an optional description for the call to action block.
-  actions:
-  - label: Get Started
-    url: "/docs/getting-started/installation.html"
-- type: contentblock
-  template: contentblock
-  title: A Section Without Image
-  section_id: text-no-img
-  component: content_block.html
-  content: Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-    cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum consectetur
-    lobortis.
-  actions:
-  - label: Get Started
-    url: "/docs/getting-started/installation.html"
-  image: ''
+
 layout: home
 menu:
   main:

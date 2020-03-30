@@ -12,10 +12,5 @@ sections:
     actions:
       - label: Get Started
         url: /docs/getting-started/index.html
-menu:
-  main:
-    name: Overview
-    weight: 1
-    parent: layouts
 layout: overview
 ---

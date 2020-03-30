@@ -4,7 +4,7 @@ subtitle: Your membership will help us keep our meetings active, interesting and
 img_path: images/5.jpg
 menu:
   main:
-    name: Subcribe
+    name: Become a Member
     weight: 4
 layout: subscribe
 ---
