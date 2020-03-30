@@ -1,8 +1,12 @@
 title: Urban Toronto Beekeepers' Association
 baseURL: /
 params:
-  palette: violet
+  palette: yellow
   palettes:
+    yellow:
+      sass:
+        accent1: '#c59100'
+        accent2: '#e4bf21'
     blue:
       sass:
         accent1: '#00c6ff'
@@ -25,9 +29,9 @@ menu:
       name: Sample Layouts
       url: '#'
       weight: 5
-    - identifier: github
-      name: GitHub
-      url: 'https://github.com/'
+    - identifier: facebook
+      name: Facebook Group
+      url: 'https://www.facebook.com/groups/urbantorontobeekeepers/'
       weight: 6
 disableKinds:
   - RSS
