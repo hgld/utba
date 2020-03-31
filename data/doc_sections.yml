@@ -1,9 +1,7 @@
 root_folder: /docs/
 sections:
-  - about
   - getting-started
-  - ui-components
-  - manage-content
-  - tools
-  - faq
+  - local-suppliers
   - community
+  - faq
+

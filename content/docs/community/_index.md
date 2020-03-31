@@ -13,10 +13,6 @@ layout: docs
 
 **Lorem ipsum dolor sit amet, consectetur adipiscing elit.** Donec ut nulla laoreet, finibus purus sit amet, ullamcorper felis. Aliquam sagittis consectetur ullamcorper. Ut dapibus ex a nibh euismod tincidunt. Vestibulum quam velit, placerat vel ipsum eget, vulputate aliquet nibh. Cras hendrerit, justo a sagittis pharetra, ante elit imperdiet quam, eget euismod mauris lacus at eros. Sed et est interdum leo ultricies feugiat non non est. Aenean sit amet sollicitudin tellus, at pellentesque massa. Vestibulum dapibus magna quis dui ultrices vestibulum.
 
-## Stack Overflow
-
-Suspendisse hendrerit maximus metus in placerat. In ligula magna, efficitur sed ultrices non, iaculis ut ligula. Sed finibus efficitur cursus. Proin quis molestie purus. Vestibulum ut magna eget tortor tempor egestas eget eu orci. Integer porta cursus rutrum. Quisque porta suscipit sem, et tincidunt felis malesuada vel. 
-
 ## Popular Discussion Forums
 
 Donec eget tellus magna. Duis eu metus sem. Donec nec ullamcorper dui. Phasellus turpis mauris, lacinia ac imperdiet eu, dapibus eu metus. Vestibulum porta lectus vel dui eleifend pretium. Nulla facilisi. Nam luctus quam at velit congue tincidunt. Ut tempus justo at urna varius commodo.

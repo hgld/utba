@@ -1,5 +1,5 @@
 ---
-title: Welcome to Libris
+title: Resources
 menu:
   main:
     name: Resources
