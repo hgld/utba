@@ -1,7 +1,8 @@
-root_folder: /docs/
+---
+root_folder: "/docs/"
 sections:
-  - getting-started
-  - local-suppliers
-  - community
-  - faq
-
+- youtube
+- getting-started
+- local-suppliers
+- community
+- faq
