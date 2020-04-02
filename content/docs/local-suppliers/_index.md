@@ -1,12 +1,11 @@
 ---
 title: Local Suppliers
-excerpt: >-
-  To make it easy to write documentation in plain Markdown, most UI components
+excerpt: To make it easy to write documentation in plain Markdown, most UI components
   are styled using Markdown elements with few additional CSS classes.
 layout: docs
----
 
-Ut quis consequat risus. Aenean ut porta ligula. Morbi id ante eu nisi suscipit maximus. Fusce ac congue quam. Nulla id elit facilisis, consequat magna vitae, scelerisque elit. Nullam lacinia elit in arcu scelerisque, ac volutpat neque sodales.
+---
+Innisfil Creek Honey [website](www.google.com)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet ipsum quis nisi aliquam commodo. Ut tincidunt scelerisque ex, id hendrerit neque pretium quis. Vivamus vehicula lacus quis quam faucibus, eget ultrices mauris gravida. Sed mollis arcu ac velit interdum viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras pellentesque in dui ut feugiat. Donec a tempor nunc, a sodales massa. Sed ac diam sed sem posuere ullamcorper. Etiam id metus nisi. Quisque tincidunt consectetur malesuada. Donec imperdiet tincidunt urna eget tincidunt. Integer lobortis facilisis velit, at tincidunt leo auctor et. Fusce cursus ante nec feugiat molestie. In convallis tortor ut quam lobortis, eu rutrum lacus tristique. Donec vitae congue nunc.
 
