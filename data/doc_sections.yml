@@ -1,8 +1,8 @@
 ---
 root_folder: "/docs/"
 sections:
-- youtube
 - getting-started
 - local-suppliers
 - community
 - faq
+- youtube
