@@ -1,12 +1,11 @@
 ---
 title: Resources
+layout: docs
 menu:
   main:
-    name: Resources
-    weight: 2
-layout: docs
----
+    weight: 3
 
+---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
 
 ***
