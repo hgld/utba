@@ -1,5 +1,4 @@
 +++
-draft = true
 img_path = ""
 layout = "page"
 subtitle = "From the University of Guelph"
