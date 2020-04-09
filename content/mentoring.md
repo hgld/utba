@@ -3,6 +3,9 @@ img_path = ""
 layout = "page"
 subtitle = ""
 title = "Mentoring"
+[menu.main]
+name = "Mentorship"
+weight = 5
 
 +++
 This is where the mentoring page will go
