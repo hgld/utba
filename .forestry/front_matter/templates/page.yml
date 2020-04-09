@@ -24,6 +24,6 @@ fields:
   config:
     required: true
 pages:
-- content/docs/youtube/recommended-youtube-videos.md
+- content/about-us.md
 - content/events.md
 - content/style-guide.md
