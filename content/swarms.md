@@ -4,6 +4,9 @@ img_path = ""
 layout = "page"
 subtitle = ""
 title = "Swarms "
+[menu.main]
+name = "Swarms"
+weight = 6
 
 +++
 ## What do I do if I see a swarm ?
