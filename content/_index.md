@@ -19,7 +19,8 @@ sections:
   component: features_block.html
   featureslist:
   - title: New to beekeeping?
-    content: "\n## Getting Started\n\n## Courses\n\n## Guides \n\n## Beekeeping Equipment"
+    content: 'Get started by taking courses, reading guides, how to books and find
+      local beekeeping equipment '
     actions:
     - label: Learn more
       url: "/docs/getting-started"
