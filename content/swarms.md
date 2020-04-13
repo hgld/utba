@@ -14,7 +14,7 @@ weight = 7
 
 Relax, swarms are a perfectly natural part of the honeybee lifecycle. While they may seem intimidating they are not an emergency for you or the honeybee. If you do nothing, the bees will likely move on to their new home within 2 days.
 
-If you'd like us to re-home a swarm that you've located please email us info@urbantorontobeekeepers.com
+If you'd like us to re-home a swarm that you've located please email us[ info@urbantorontobeekeepers.com](mailto:info@urbantorontobeekeepers.com)
 
 * Please take a photo of the swarm (in focus please)
 * Describe where the swarm is located (30 ft up a tree, in a garbage bin, on a fence)
