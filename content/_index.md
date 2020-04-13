@@ -19,10 +19,7 @@ sections:
   component: features_block.html
   featureslist:
   - title: New to beekeeping?
-    content: If you're curious about beekeeping and want to learn more the UTBA can
-      help. We have lots of resources to educate you - plus if you join the UTBA you'll
-      get the access to special events and advice from experienced beekeepers in your
-      local area.
+    content: "\n## Getting Started\n\n## Courses\n\n## Guides \n\n## Beekeeping Equipment"
     actions:
     - label: Learn more
       url: "/docs/getting-started"
