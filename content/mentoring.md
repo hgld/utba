@@ -5,7 +5,7 @@ subtitle = ""
 title = "Mentoring"
 [menu.main]
 name = "Mentorship"
-weight = 5
+weight = 6
 
 +++
 This is where the mentoring page will go
