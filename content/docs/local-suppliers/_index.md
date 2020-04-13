@@ -5,4 +5,4 @@ excerpt: To make it easy to write documentation in plain Markdown, most UI compo
 layout: docs
 
 ---
-Find[ supplier](https://www.atlistmaps.com/map/d821d0ad-4b4f-44cb-ad38-00ad428dfc81)s near you 
+Find[ suppliers](https://www.atlistmaps.com/map/d821d0ad-4b4f-44cb-ad38-00ad428dfc81) near you 
