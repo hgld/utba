@@ -23,10 +23,9 @@ sections:
     actions:
     - label: Learn more
       url: "/docs/getting-started"
-  - title: Monthly Meetings
-    content: Our educational and informative meetings are generally held on the first
-      Tuesday of every month at the University of Toronto, Department of Anthropology.
-      Check our Facebook events page for details on our next meeting.
+  - title: 'Meetings, Events and Networking '
+    content: "We strengthen our beekeeping community through networking and learning.
+      \n\nOur next meeting is a Zoom meeting. "
     actions:
     - label: Next Meeting
       url: https://www.facebook.com/groups/urbantorontobeekeepers/events/
