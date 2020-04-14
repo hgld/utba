@@ -2,12 +2,12 @@
 img_path = ""
 layout = "page"
 subtitle = ""
-title = "Mentorship"
+title = "Introduction to Mentorship Program"
 [menu.main]
 weight = 6
 
 +++
-Introduction to the UTBA Mentoring Program 
+Introduction to the UTBA Mentorship Program
 
 the program consists of a minimum of 7 mentoring sessions throughout the beekeeping season between an experienced UTBA beekeeper/mentor and one to three new beekeepers eager to get some hands-on beekeeping practice and knowledge. The mentorship sessions will take place either in the mentor’s beeyard/apiary or at the hives owned by the new beekeeper (mentee).
 
