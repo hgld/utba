@@ -25,8 +25,10 @@ sections:
     - label: Learn more
       url: "/docs/getting-started"
   - title: 'Meetings, Events and Networking '
-    content: "We strengthen our beekeeping community through networking and learning.
-      \n\nOur next meeting is a Zoom meeting. "
+    content: |-
+      We strengthen our beekeeping community through networking and learning.
+
+      Due to the COVID-19 pandemic our next meeting is a Zoom meeting.
     actions:
     - label: Next Meeting
       url: https://www.facebook.com/groups/urbantorontobeekeepers/events/
