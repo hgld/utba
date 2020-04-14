@@ -17,9 +17,11 @@ We have established some guidelines for the roles and [responsibilities](/mentor
 
 .The mentor program endeavours to match all mentees based on availability of mentors.
 
+Please read our  guidelines for the roles and responsibilities of mentors and mentees before you  apply. 
+
 Apply to [become a mentor](https://airtable.com/shrErUWXsAe0pCZUM)
 
-Mentees contact the mentor directly. 
+Mentees contact the mentor directly.
 
 Mentorship Program cost:
 
