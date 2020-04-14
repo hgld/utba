@@ -13,13 +13,13 @@ the program consists of a minimum of 7 mentoring sessions throughout the beekeep
 
 We hope that this hands-on approach will give new beekeepers the confidence they need to successfully manage their own apiaries, pursue beekeeping over the long term and perhaps even become mentors themselves.
 
-We have established some [guidelines](/mentorship-guidelines/) for the roles and responsibilities of mentors and mentees. This is a work-in-progress document that will improve over time as we learn from our mentorship experiences
+We have established some guidelines for the roles and [responsibilities](/mentorship-guidelines/) of mentors and mentees. This is a work-in-progress document that will improve over time as we learn from our mentorship experiences
 
 .The mentor program endeavours to match all mentees based on availability of mentors.
 
-Apply early to [become a mentor](https://airtable.com/shrErUWXsAe0pCZUM)
+Apply to [become a mentor](https://airtable.com/shrErUWXsAe0pCZUM)
 
-All mentee applications must be received by May 15.
+Mentees contact the mentor directly. 
 
 Mentorship Program cost:
 
