@@ -39,4 +39,4 @@ We are a recognized member of the Ontario Beekeepers’ Association. Some of our
 
 ## History 
 
-## Part of a larger community 
+## Part of a larger community
