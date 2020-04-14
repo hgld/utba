@@ -2,7 +2,7 @@
 img_path = ""
 layout = "page"
 subtitle = ""
-title = "Introduction to Mentorship Program"
+title = " Mentorship "
 [menu.main]
 weight = 6
 
