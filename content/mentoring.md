@@ -2,17 +2,38 @@
 img_path = ""
 layout = "page"
 subtitle = ""
-title = "Mentoring"
+title = "Mentorship"
 [menu.main]
-name = "Mentorship"
 weight = 6
 
 +++
-This is where the mentoring page will go
+Introduction to the UTBA Mentoring Program 
 
-And we will have a link to [sign up as a mentor](www.form.com)
+the program consists of a minimum of 7 mentoring sessions throughout the beekeeping season between an experienced UTBA beekeeper/mentor and one to three new beekeepers eager to get some hands-on beekeeping practice and knowledge. The mentorship sessions will take place either in the mentor’s beeyard/apiary or at the hives owned by the new beekeeper (mentee).
 
-And then we will have a list of approved mentors
+We hope that this hands-on approach will give new beekeepers the confidence they need to successfully manage their own apiaries, pursue beekeeping over the long term and perhaps even become mentors themselves.
+
+We have established some guidelines for the roles and responsibilities of mentors and mentees. This is a work-in-progress document that will improve over time as we learn from our mentorship experiences
+
+.The mentor program endeavours to match all mentees based on availability of mentors.
+
+Apply early to [become a mentor](https://airtable.com/shrErUWXsAe0pCZUM)
+
+All mentee applications must be received by May 15.
+
+Mentorship Program cost:
+
+$350 per person for a group of 2 to 3 people
+
+$500 for a one-on-one experience
+
+A non-refundable deposit of $100 is to be paid directly to the mentor to secure your spot. The balance is due to the mentor on the first visit.
+
+$50 from each mentee fee goes to the UTBA
+
+Taxes included.
+
+[Apply to become a mentor](https://airtable.com/shrErUWXsAe0pCZUM)
 
 ***
 
