@@ -37,7 +37,7 @@ Taxes included.
 
 [Apply to become a mentor](https://airtable.com/shrErUWXsAe0pCZUM)
 
-[Frequently Asked Questions](/pages/content-faq-md)
+[Frequently Asked Questions](/pages/content-faq-md/)
 
 ***
 
