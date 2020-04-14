@@ -6,6 +6,6 @@ layout: blog
 menu:
   main:
     name: Supporting Pollinators
-    weight: 7
+    weight: 6
 
 ---
