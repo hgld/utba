@@ -17,7 +17,7 @@ We have established some guidelines for the roles and [responsibilities](/mentor
 
 .The mentor program endeavours to match all mentees based on availability of mentors.
 
-Please read our  guidelines for the roles and responsibilities of mentors and mentees before you  apply. 
+Please read our  guidelines for the roles and responsibilities of mentors and mentees before you  apply.
 
 Apply to [become a mentor](https://airtable.com/shrErUWXsAe0pCZUM)
 
@@ -36,6 +36,8 @@ $50 from each mentee fee goes to the UTBA
 Taxes included.
 
 [Apply to become a mentor](https://airtable.com/shrErUWXsAe0pCZUM)
+
+Frequently Asked Questions 
 
 ***
 
