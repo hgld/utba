@@ -26,6 +26,7 @@ fields:
 pages:
 - content/about-us.md
 - content/contact-us.md
+- content/docs/mentorship-guidelines.md
 - content/events.md
 - content/mentoring.md
 - content/style-guide.md
