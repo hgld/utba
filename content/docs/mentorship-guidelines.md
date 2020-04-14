@@ -3,7 +3,7 @@ draft = true
 img_path = ""
 layout = "page"
 subtitle = ""
-title = "Mentorship Guidelines "
+title = "Mentorship Responsibilities"
 
 +++
 **Mentor Responsibilities**
