@@ -1,9 +1,9 @@
----
-root_folder: "/docs/"
+root_folder: /docs/
 sections:
-- getting-started
-- local-suppliers
-- community
-- faq
-- youtube
-- mentorship
+  - about
+  - prepare
+  - after-the-test
+  - faq
+  - advisors
+  - clarifications
+  - errata
