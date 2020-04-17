@@ -1,9 +1,6 @@
 root_folder: /docs/
 sections:
-  - about
-  - prepare
-  - after-the-test
+  - section1
+  - section2
+  - section3
   - faq
-  - advisors
-  - clarifications
-  - errata
