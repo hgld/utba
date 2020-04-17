@@ -27,8 +27,8 @@ params:
 menu:
   main:
   - url: https://www.facebook.com/groups/urbantorontobeekeepers/
-    name: Facebook Group
-    weight: 8
+    name: Facebook
+    weight: 9
     identifier: facebook
 disableKinds:
 - RSS

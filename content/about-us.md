@@ -4,7 +4,7 @@ layout = "page"
 subtitle = "Everything you wanted to know about the UTBA"
 title = "About Us"
 [menu.main]
-weight = 2
+weight = 3
 
 +++
 # About us 

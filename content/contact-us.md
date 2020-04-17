@@ -4,7 +4,7 @@ layout = "page"
 subtitle = ""
 title = "Contact Us"
 [menu.main]
-weight = 7
+weight = 8
 
 +++
 To reach us by email 

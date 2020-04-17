@@ -6,7 +6,7 @@ img_path: images/5.jpg
 layout: subscribe
 menu:
   main:
-    weight: 3
+    weight: 4
 
 ---
 Your membership will help us keep our meetings active, interesting and useful to new and experienced beekeepers. Membership benefits include:

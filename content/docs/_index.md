@@ -1,14 +1,12 @@
 ---
 title: Resources
 date: Tue, 31 Jan 2017 15:48:21 +0000
-draft: false
 layout: docs
 menu:
   main:
     weight: 1
 
 ---
-
 You can find everything you need about bee keeping.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum gravida libero non lacus facilisis, id consectetur dui varius. Mauris et tincidunt lacus. In quis ex congue, rutrum metus ac, dictum sapien. Praesent quis urna dolor. Cras fermentum a ipsum a pellentesque. Donec sagittis turpis lorem, in viverra dui pharetra vitae. Etiam ac odio a ex fermentum finibus sed ac leo. Pellentesque quis egestas risus, ac luctus nisl.
