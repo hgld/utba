@@ -5,6 +5,8 @@ subtitle = ""
 title = "Guidelines for Mentorship Responsibilities"
 
 +++
+### Guidelines
+
 **Mentor Responsibilities**
 
 ● Must be a member of the UTBA
