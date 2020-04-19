@@ -28,3 +28,5 @@ fields:
   default: docs
   config:
     required: true
+pages:
+- content/docs/section4/_index.md
