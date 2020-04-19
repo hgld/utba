@@ -28,5 +28,3 @@ fields:
   default: docs
   config:
     required: true
-pages:
-- content/docs/documentation-sample-4.md
