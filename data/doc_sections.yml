@@ -1,5 +1,7 @@
-root_folder: /docs/
+---
+root_folder: "/docs/"
 sections:
+- local-suppliers
 - section1
 - section2
 - section3
