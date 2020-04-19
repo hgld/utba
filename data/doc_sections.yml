@@ -1,6 +1,7 @@
 ---
 root_folder: "/docs/"
 sections:
+- getting-started
 - local-suppliers
 - section1
 - section2
