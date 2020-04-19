@@ -30,6 +30,8 @@ sections:
 
       Due to the COVID-19 pandemic our next meeting is a Zoom meeting.
     actions:
+    - label: Bees, Beer and BBQ
+      url: ''
     - label: Next Meeting
       url: https://www.facebook.com/groups/urbantorontobeekeepers/events/
     - label: Virtual Beekeeping Book Club
