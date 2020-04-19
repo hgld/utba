@@ -28,3 +28,5 @@ fields:
   default: docs
   config:
     required: true
+pages:
+- content/docs/local-suppliers/local-suppliers.md
