@@ -26,6 +26,7 @@ fields:
 pages:
 - content/about-us.md
 - content/contact-us.md
+- content/docs/local-suppliers/local-suppliers.md
 - content/events.md
 - content/faq.md
 - content/mentoring.md
