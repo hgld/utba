@@ -14,7 +14,6 @@ sections:
 - type: document
   path: content/docs/**/*
   label: Documentation
-  match: "**/*"
 - type: document
   path: config.yaml
   label: Global Site Config
