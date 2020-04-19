@@ -2,8 +2,7 @@
 root_folder: "/docs/"
 sections:
 - getting-started
+- where-to-get-support
 - local-suppliers
-- section1
-- section2
-- section3
+- youtube
 - faq

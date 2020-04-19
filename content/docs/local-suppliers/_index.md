@@ -5,4 +5,4 @@ title = "Local suppliers"
 weight = 1
 
 +++
-Here is a list of local suppliers
+Here is a list of local suppliers. 
