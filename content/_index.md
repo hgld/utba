@@ -30,11 +30,9 @@ sections:
 
       Due to the COVID-19 pandemic our next meeting is a Zoom meeting.
     actions:
-    - label: Bees, Beer and BBQ
-      url: ''
     - label: Next Meeting
       url: https://www.facebook.com/groups/urbantorontobeekeepers/events/
-    - label: Virtual Beekeeping Book Club
+    - label: Beekeeping Virtual Book Club
       url: https://www.eventbrite.com/e/virtual-beekeeper-book-club-tickets-103004288600
   - title: Beekeeping Resources
     content: The UTBA has collected a large body of resources that will be of interest
