@@ -1,7 +1,5 @@
----
-root_folder: "/docs/"
+root_folder: /docs/
 sections:
-- section4
 - section1
 - section2
 - section3
