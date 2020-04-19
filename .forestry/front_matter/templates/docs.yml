@@ -29,4 +29,4 @@ fields:
   config:
     required: true
 pages:
-- content/docs/local-suppliers/local-suppliers.md
+- content/docs/local-suppliers/_index.md
