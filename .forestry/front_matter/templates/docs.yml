@@ -28,3 +28,4 @@ fields:
     required: true
 pages:
 - content/docs/documentation-sample-4.md
+- content/docs/test.md
