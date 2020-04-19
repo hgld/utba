@@ -30,3 +30,4 @@ fields:
     required: true
 pages:
 - content/docs/local-suppliers/_index.md
+- content/docs/local-suppliers/download-suppliers.md
