@@ -14,6 +14,8 @@ fields:
   label: Weight
   description: The navigation order of the documentation page. This value is ignored
     for parent section pages.
+  config:
+    required: false
 - type: text
   name: excerpt
   label: Excerpt
@@ -26,5 +28,3 @@ fields:
   default: docs
   config:
     required: true
-pages:
-- content/docs/documentation-sample-4.md
