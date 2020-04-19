@@ -1,13 +1,6 @@
 root_folder: /docs/
 sections:
-<<<<<<< HEAD
-  - section1
-  - section2
-  - section3
-  - faq
-=======
 - section1
 - section2
 - section3
 - faq
->>>>>>> 2a8a1f093b2012f499a59cc3f84470867f0dce63
