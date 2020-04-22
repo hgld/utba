@@ -7,7 +7,17 @@ title = " Mentorship "
 weight = 4
 
 +++
-Introduction to the UTBA Mentorship Program
+**Urban Toronto Beekeepers’ Association Mentorship Program**
+
+The UTBA has been planning to initiate a Mentorship Program in 2020, intended to pair new beekeepers with experienced mentors. As planned, this program would involve a number of face-to-face interactions throughout the beekeeping season and hands-on beekeeping either at the apiary of a mentor or the new beekeeper.
+
+Unfortunately, Covid-19 has made that plan impossible, at least for the early months of the 2020 beekeeping season. We are currently working on an alternative, which would allow experienced beekeepers to mentor new beekeepers by other means.
+
+We will be posting mentor profiles soon, so that interested new beekeepers can learn more about potential mentors.
+
+If you are interested in mentorship in 2020, keep an eye on this page. 
+
+We hope to be announcing a modified program soon.
 
 the program consists of a minimum of 7 mentoring sessions throughout the beekeeping season between an experienced UTBA beekeeper/mentor and one to three new beekeepers eager to get some hands-on beekeeping practice and knowledge. The mentorship sessions will take place either in the mentor’s beeyard/apiary or at the hives owned by the new beekeeper (mentee).
 
@@ -21,7 +31,7 @@ Please read our  [guidelines](/mentorship-guidelines/) for the roles and respons
 
 Apply to [become a mentor](https://airtable.com/shrErUWXsAe0pCZUM)
 
-**Mentees will contact the mentor directly as you will develop your own relationship directly with the mentor.** 
+**Mentees will contact the mentor directly as you will develop your own relationship directly with the mentor.**
 
 Mentorship Program cost:
 
@@ -44,6 +54,8 @@ Taxes included.
 Jim Smith
 
 I am a 35 year experienced beek.
+
+Apply to become a mentee with Jim
 
 ***
 
