@@ -29,8 +29,5 @@ fields:
   config:
     required: true
 pages:
-- content/docs/New to beekeeping/beekeeping-videos.md
 - content/docs/getting-started/_index.md
 - content/docs/local-suppliers/_index.md
-- content/docs/local-suppliers/download-suppliers.md
-- content/docs/local-suppliers/hamilton-local-suppliers.md
