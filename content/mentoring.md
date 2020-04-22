@@ -33,7 +33,7 @@ Please read our  [guidelines](/mentorship-guidelines/) for the roles and respons
 
 Apply to [become a mentor](https://airtable.com/shrErUWXsAe0pCZUM)
 
-**Mentees will contact the mentor directly as you will develop your own relationship directly with the mentor.**
+**Mentees will contact the mentor directly through their profile as you will develop your own relationship directly with the mentor.**
 
 Mentorship Program cost:
 
