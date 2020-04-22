@@ -19,9 +19,9 @@ If you are interested in mentorship in 2020, keep an eye on this page.
 
 We hope to be announcing a modified program soon.
 
-Future Program described below will be available when social distancing rules are relaxed by our Provincial and Municipal governments. 
+The program,  described below,  will be available when social distancing rules are relaxed by our Provincial and Municipal governments. 
 
-the program consists of a minimum of 7 mentoring sessions throughout the beekeeping season between an experienced UTBA beekeeper/mentor and one to three new beekeepers eager to get some hands-on beekeeping practice and knowledge. The mentorship sessions will take place either in the mentor’s beeyard/apiary or at the hives owned by the new beekeeper (mentee).
+The program consists of a minimum of 7 mentoring sessions throughout the beekeeping season between an experienced UTBA beekeeper/mentor and one to three new beekeepers eager to get some hands-on beekeeping practice and knowledge. The mentorship sessions will take place either in the mentor’s beeyard/apiary or at the hives owned by the new beekeeper (mentee).
 
 We hope that this hands-on approach will give new beekeepers the confidence they need to successfully manage their own apiaries, pursue beekeeping over the long term and perhaps even become mentors themselves.
 
