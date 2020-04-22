@@ -5,7 +5,7 @@ subtitle = ""
 title = "Swarms "
 [menu.main]
 name = "Swarms"
-weight = 6
+weight = 5
 
 +++
 ## What do I do if I see a swarm ?

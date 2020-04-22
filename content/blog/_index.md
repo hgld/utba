@@ -5,7 +5,7 @@ img_path: images/5.jpg
 layout: blog
 menu:
   main:
-    name: Supporting Pollinators
-    weight: 7
+    name: Protecting Pollinators
+    weight: 6
 
 ---

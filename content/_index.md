@@ -46,6 +46,6 @@ sections:
 layout: home
 menu:
   main:
-    weight: 2
+    weight: 1
 
 ---
