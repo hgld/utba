@@ -7,8 +7,6 @@ title = "About Us"
 weight = 3
 
 +++
-**About Us**
-
 **What we do**
 
 The Urban Toronto Beekeepers’ Association was organized in the early months of 2013, to stimulate an interchange of knowledge and experience among beekeepers in the city, and to promote sustainable urban beekeeping. To accomplish these goals we:
