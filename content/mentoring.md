@@ -15,11 +15,11 @@ Unfortunately, Covid-19 has made that plan impossible, at least for the early mo
 
 We will be posting mentor profiles soon, so that interested new beekeepers can learn more about potential mentors.
 
-If you are interested in mentorship in 2020, keep an eye on this page. 
+If you are interested in mentorship in 2020, keep an eye on this page.
 
 We hope to be announcing a modified program soon.
 
-The program,  described below,  will be available when social distancing rules are relaxed by our Provincial and Municipal governments. 
+The program,  described below,  will be available when social distancing rules are relaxed by our Provincial and Municipal governments.
 
 The program consists of a minimum of 7 mentoring sessions throughout the beekeeping season between an experienced UTBA beekeeper/mentor and one to three new beekeepers eager to get some hands-on beekeeping practice and knowledge. The mentorship sessions will take place either in the mentor’s beeyard/apiary or at the hives owned by the new beekeeper (mentee).
 
@@ -53,11 +53,11 @@ Taxes included.
 
 ***
 
-Jim Smith
+Fran Freeman 
 
 I am a 35 year experienced beek.
 
-Apply to become a mentee with Jim
+Apply to become a mentee with [Fran Freeman ](https://airtable.com/shrLT4VWG72XDOZN4)
 
 ***
 
