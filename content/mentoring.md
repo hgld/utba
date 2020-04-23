@@ -69,7 +69,6 @@ I have been learning beekeeping for the past dozen years. I got my training work
 
  I would also add that I respect the bees' need for their own supply of honey and use only organic treatments.
 
-Apply to be mentee with  
- [John Coffman ](https://airtable.com/shrvYk3IFuDjjPwQr)
+Apply to be mentee with  [John Coffman ](https://airtable.com/shrvYk3IFuDjjPwQr)
 
 ***
