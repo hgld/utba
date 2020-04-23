@@ -59,9 +59,11 @@ I am a 35 year experienced beek.
 
 Apply to become a mentee with [Fran Freeman ](https://airtable.com/shrLT4VWG72XDOZN4)
 
-#### John Coffman 
+***
 
-![](/images/JohnCoffman.jpg)
+#### John Coffman
+
+![](/images/JohnCoffmansm.jpg)
 
 I have been learning beekeeping for the past dozen years. I got my training working with the Toronto Beekeeping Co-op \[ Collective\]. I was Co-chair of the Co-op for two years then my partner Fran Freeman and I opened our own bee yards. We currently manage three Toronto sites at Humber College and the Humber Arboretum. We also offer a year long beekeeping course through the Arboretum. We have given many presentations to schools and other organizations and for three years ran a summer bee education program at a YMCA camp where we also helped establish and run their own bee yard. As well as the city bee yards I have a few hives in the Niagara area. I have also been mentoring a new beekeeper there. My beekeeping philosophy is based on a covenant by Mark Winston in his book "Bee Time"
 
