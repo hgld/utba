@@ -10,8 +10,6 @@ The Urban Toronto Beekeepers’ Association was organized in the early months of
 
 Here are you learn about our:
 
-Goals
-
-[Our organising committee](/our-coordinating-committee)
-
-A history of the UTBA
+* [Goals](/goals)
+* [Our organising committee](/our-coordinating-committee)
+* A history of the UTBA
