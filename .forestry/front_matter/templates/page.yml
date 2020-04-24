@@ -24,12 +24,10 @@ fields:
   config:
     required: true
 pages:
-- content/about-us-1.md
 - content/about-us.md
 - content/contact-us.md
 - content/events.md
 - content/faq.md
-- content/goals.md
 - content/mentoring.md
 - content/our-coordinating-committee.md
 - content/style-guide.md
