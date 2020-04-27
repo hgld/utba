@@ -13,17 +13,15 @@ The UTBA has been planning to initiate a Mentorship Program in 2020, intended to
 
 Unfortunately, Covid-19 has made that plan impossible, at least for the early months of the 2020 beekeeping season. We are currently working on an alternative, which would allow experienced beekeepers to mentor new beekeepers by other means.
 
-**Overview**
+[**Overview**](/overview-of-mentorship-program)
 
-**Guidelines**
+[**Guidelines**](/mentorship-guidelines)
 
-**Meet Our Mentors**
+[**Meet Our Mentors**](content/meet-our-mentors)
 
-**Apply to become a Mentor**
+[**Apply to become a Mentor**](https://airtable.com/shrErUWXsAe0pCZUM)
 
-[Apply to become a mentor](https://airtable.com/shrErUWXsAe0pCZUM)
-
-[Frequently Asked Questions](/faq/)
+[**Frequently Asked Questions**](/faq/)
 
 ***
 
