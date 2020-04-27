@@ -11,8 +11,10 @@ weight = 2
 
 The Urban Toronto Beekeepers’ Association was organized in the early months of 2013, to stimulate an interchange of knowledge and experience among beekeepers in the city, and to promote sustainable urban beekeeping. To accomplish these goals we:
 
-* Host 10 monthly meetings per year, including a “BEE Educated” session geared to new beekeepers or those interested in becoming beekeepers and also a knowledgeable speaker or panel addressing current beekeeping issues, important new research and other topics. We have Lately, we have added a popular “Meet a Beekeeper” presentation by a local beekeeper who gives us a visual tour of their apiary and describes their beekeeping practices and challenges.
-* Organize one or more special events each year. In the past these have included:
+Host 10 monthly meetings per year, including a “BEE Educated” session geared to new beekeepers or those interested in becoming beekeepers and also a knowledgeable speaker or panel addressing current beekeeping issues, important new research and other topics. We have Lately, we have added a popular “Meet a Beekeeper” presentation by a local beekeeper who gives us a visual tour of their apiary and describes their beekeeping practices and challenges.
+
+Organize one or more special events each year. In the past these have included:
+
 * Building swarm traps
 * Honey tasting workshops
 * Apiary tours
