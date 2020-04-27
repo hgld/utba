@@ -30,9 +30,10 @@ If honeybees have decided to make a home on/in your house or shed they will begi
 
 A honeybee swarm is a natural part of the honeybee colony lifecycle and is not usually an emergency. In most cases the honeybees will move on in a day or two.Don’t approach the swarm. Although typically honeybees are docile there is always a risk of being stung. Observe from a distance.
 
-Contact the UTBA to have a honeybee swarm relocated.[Info@urbantorontobeekeepers.org](mailto:Info@urbantorontobeekeepers.org)
+Contact the UTBA to have a honeybee swarm relocated. [Info@urbantorontobeekeepers.org](mailto:Info@urbantorontobeekeepers.org)
 
-* Please be ready to supply the following details.
+Please be ready to supply the following details.
+
 * Please take a photo of the swarm
 * Describe where the swarm is located (30 ft up a tree, in a garbage bin, on a fence)
 * Physical location (close major intersection)
