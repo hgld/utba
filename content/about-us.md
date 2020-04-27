@@ -35,8 +35,8 @@ Our work is organized by a ten-member Coordinating Committee.
 
 We are a recognized member of the Ontario Beekeepers’ Association. Some of our members participate in OBA meetings and conferences and report to the UTBA about OBA events and initiatives, including OBA Technical Transfer programs.
 
-* **Our Coordinating Committee** 
-* **Our History** 
+* [**Our Coordinating Committee**](content/coordinating-committee)
+* **Our History**
 
 **A History of the UTBA**
 
