@@ -33,4 +33,4 @@ Other contributors to the work of the Coordinating Committee, but not formal mem
 
 Email Manager: Fran Freeman
 
-Communications and Website Management; Henry Dillon, Oliver Meyn and Daniel Rehac
+Communications and Website Management; Henry Dillon, Michelle Wolfson and Daniel Rehac
