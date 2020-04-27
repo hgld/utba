@@ -32,17 +32,15 @@ A honeybee swarm is a natural part of the honeybee colony lifecycle and is not u
 
 Contact the UTBA to have a honeybee swarm relocated.[Info@urbantorontobeekeepers.org](mailto:Info@urbantorontobeekeepers.org)
 
-Please be ready to supply the following details.
+* Please be ready to supply the following details.
+* Please take a photo of the swarm
+* Describe where the swarm is located (30 ft up a tree, in a garbage bin, on a fence)
+* Physical location (close major intersection)
+* Date when swarm first noticed
 
-Please take a photo of the swarm
+Below is a photo of a **hornet nest.** Beekeepers do not remove them. You will likely need the services of a licensed pest control professional.
 
-Describe where the swarm is located (30 ft up a tree, in a garbage bin, on a fence)
-
-Physical location (close major intersection)
-
-Date when swarm first noticed
-
-Below are some photos of wasp and hornet nests. Beekeepers do not remove them. You will likely need the services of a licensed pest control professional.
+![](/images/Unknown.jpeg)
 
 [City of Toronto](https://www.toronto.ca/data/parks/pdf/trees/bees-wasps-hornets-policy.pdf) Policy on Wasp Nest Removal
 
