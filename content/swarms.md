@@ -51,7 +51,7 @@ If you are seeing flying black and yellow insects in the fall coming out of a cr
 
 Here are some common yellow and black striped insects that are local to Toronto.
 
-![](/images/yellowandblackstripeythings.jpg)
+![](/images/Know-Your-Bees.jpg)
 
 **Become A Swarm Catcher**
 
