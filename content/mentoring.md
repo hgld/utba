@@ -17,7 +17,7 @@ Unfortunately, Covid-19 has made that plan impossible, at least for the early mo
 
 [**Guidelines**](/mentorship-guidelines)
 
-[**Meet Our Mentors**](content/meet-our-mentors)
+[**Meet Our Mentors**](/meet-our-mentors)
 
 [**Apply to become a Mentor**](https://airtable.com/shrErUWXsAe0pCZUM)
 
