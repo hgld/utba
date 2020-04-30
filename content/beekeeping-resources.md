@@ -3,7 +3,7 @@ draft = true
 img_path = ""
 layout = "page"
 subtitle = ""
-title = "Beekeeping Resources "
+title = "Beekeeping Resources past getting started "
 
 +++
 Coming Soon. 
