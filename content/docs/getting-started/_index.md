@@ -6,9 +6,7 @@ title = "Getting Started"
 weight = 1
 
 +++
-#### Raring to go?  
-
-#### What do you need to be an urban beekeeper? 
+#### Raring to go?  What do you need to be an urban beekeeper? 
 
 You'll need to:
 
