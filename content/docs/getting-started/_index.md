@@ -6,7 +6,9 @@ title = "Getting Started"
 weight = 1
 
 +++
-Raring to go?  What do you need to be an urban beekeeper? 
+#### Raring to go?  
+
+#### What do you need to be an urban beekeeper? 
 
 You'll need to:
 
@@ -21,4 +23,4 @@ You'll need to:
 * Understand the process of nectar collection, ripening and honey extraction 
 * Be able to prepare your colonies for winter 
 
-So how do you get to where you need to be? We recommend a combination of textbooks, videos, classes, hands on practice and mentoring. Joining a local beekeeping can connect you to all of these things. 
+So how do you get to where you need to be?  We recommend a combination of textbooks, videos, classes, hands on practice and mentoring. Joining a local beekeeping can connect you to all of these things. 
