@@ -25,7 +25,6 @@ fields:
     required: true
 pages:
 - content/about-us.md
-- content/beekeeping-resources.md
 - content/contact-us.md
 - content/coordinating-committee.md
 - content/events.md
