@@ -40,13 +40,12 @@ sections:
       beekeeping supplier directory, and more.
     actions:
     - label: Learn More
-      url: " content/utba-resource-list."
+      url: "/utba-resource-list"
   title: ''
   subtitle: ''
 layout: home
 menu:
   main:
     weight: 1
-draft: true
 
 ---
