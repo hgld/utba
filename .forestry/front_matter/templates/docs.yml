@@ -31,4 +31,5 @@ fields:
 pages:
 - content/docs/faq/title.md
 - content/docs/getting-started/_index.md
+- content/docs/getting-started/introduction.md
 - content/docs/local-suppliers/_index.md
