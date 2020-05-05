@@ -1,5 +1,4 @@
 +++
-draft = true
 excerpt = ""
 layout = "docs"
 title = "Do Some Reading and Watch Some Videos"
