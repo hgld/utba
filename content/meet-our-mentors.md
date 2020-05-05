@@ -5,11 +5,7 @@ subtitle = ""
 title = "Meet Our Mentors"
 
 +++
-Fran Freeman
-
-I am a 35 year experienced beek.
-
-Apply to become a mentee with [Fran Freeman ](https://airtable.com/shrLT4VWG72XDOZN4)
+Visit us again to watch our list of mentors grow. 
 
 ***
 
