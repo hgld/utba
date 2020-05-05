@@ -40,7 +40,7 @@ sections:
       beekeeping supplier directory, and more.
     actions:
     - label: Learn More
-      url: " docs"
+      url: "/docs/"
   title: ''
   subtitle: ''
 layout: home
