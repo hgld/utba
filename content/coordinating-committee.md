@@ -15,11 +15,11 @@ Vice-chair: Michelle Wolfson
 
 Treasurer: Melanie Wolicki
 
-Secretary: Lucinda Crawford
+Secretary: Lucina Crawford
 
 Membership and Mentorship Coordinator: Renée Nadeau
 
-Meeting Coordinators: Lucinda Crawford and Alin Dumitresco
+Meeting Coordinators: Lucina Crawford and Alin Dumitresco
 
 BEE Educated Coordinators: Terry and Marion Whittam
 
