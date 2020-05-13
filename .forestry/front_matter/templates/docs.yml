@@ -29,7 +29,6 @@ fields:
   config:
     required: true
 pages:
-- content/docs/Magazines and Journals/magazines-and-journals.md
 - content/docs/getting-started/_index.md
 - content/docs/getting-started/do-some-reading-and-watch-some-videos.md
 - content/docs/getting-started/find-a-mentor.md
