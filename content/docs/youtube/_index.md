@@ -14,7 +14,7 @@ There are many, many videos available on-line that offer guidance for beekeepers
 · **_YouTube Videos by Devan Rawn (former member of the Ontario Beekeepers’ Association Tech Transfer Team)._** Another series of more than 30 excellent videos by a knowledgeable Southern Ontario beekeeper. Videos include: _Beekeeping with Devan;_ _Beginner Beekeepers: Three Essential Skills; What do Bees Eat?; Beekeeping with a Plan; Colony Growth in Spring; Fall Beekeeping; What are Your Bees Doing All Winter;_ and more advanced topics.   
 [https://www.youtube.com/channel/UCTw7InclMH-yvozq5h-Svjag](https://www.youtube.com/channel/UCTw7InclMH-yvozq5h-Svjag "https://www.youtube.com/channel/UCTw7InclMH-yvozq5h-Svjag")
 
-· **_Videos by the Ontario Beekeepers’ Association Tech Transfer Team_.** OBA has several short videos, most of which are focused on techniques for monitoring Varroa mites in the hive (sticky boards, sugar dust, ether roll and alcohol wash). [https://www.youtube.com/channel/UCBGvd8K3yanALJwkIjZIE5g](https://www.youtube.com/channel/UCBGvd8K3yanALJwkIjZIE5g "https://www.youtube.com/channel/UCBGvd8K3yanALJwkIjZIE5g")
+· **_Videos by the Ontario Beekeepers’ Association Tech Transfer Team_.** OBA has several short videos, most of which are focused on techniques for monitoring Varroa mites in the hive (sticky boards, sugar dust, ether roll and alcohol wash). [https://www.youtube.com/user/devanwatchesvlogs](https://www.youtube.com/user/devanwatchesvlogs "https://www.youtube.com/user/devanwatchesvlogs")
 
   
 There are also videos of presentations by bee researchers that look in-depth at the way a colony of honeybees functions, or at issues confronting beekeepers. Some of the ones we like include:
