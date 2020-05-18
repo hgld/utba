@@ -7,7 +7,7 @@ title = "Magazines and Journals "
 +++
 There are a variety of good magazines and journals devoted to beekeeping. Those listed below are chosen for their relevance for beekeeping in Ontario.
 
-**_Ontario Bee Journal. _**The Ontario Beekeepers’ Association produces the bi-monthly OBJ and sends the journal to all OBA members, who also have access to the journal on-line. Regular articles include: beekeeping industry news; seasonal beekeeping information (“This Month in the Beeyard”); the latest research from the OBA’s Tech Transfer group; the Provincial Apiarist report; profiles of Ontario beekeepers; and more. [https://www.ontariobee.com/](https://www.ontariobee.com/ "https://www.ontariobee.com/")
+**_Ontario Bee Journal._** The Ontario Beekeepers’ Association produces the bi-monthly OBJ and sends the journal to all OBA members, who also have access to the journal on-line. Regular articles include: beekeeping industry news; seasonal beekeeping information (“This Month in the Beeyard”); the latest research from the OBA’s Tech Transfer group; the Provincial Apiarist report; profiles of Ontario beekeepers; and more. [https://www.ontariobee.com/](https://www.ontariobee.com/ "https://www.ontariobee.com/")
 
 **_Hivelights._** The Canada Honey Council produces a quarterly magazine primarily geared to commercial beekeepers across Canada, with regional reports from provincial beekeeping associations, the Honeybee Health Coalition, honey production statistics, regulations governing labelling and honeybee pest control products, etc. This magazine is also mailed to all OBA members.
 
