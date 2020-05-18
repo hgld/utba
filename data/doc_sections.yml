@@ -3,7 +3,7 @@ root_folder: "/docs/"
 sections:
 - getting-started
 - local-suppliers
-- faq
 - magazines
 - websites
 - videos
+- faq
