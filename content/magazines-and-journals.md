@@ -1,7 +1,7 @@
 +++
 img_path = ""
 layout = "page"
-subtitle = "3"
+subtitle = ""
 title = "Magazines and Journals "
 
 +++
