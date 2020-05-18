@@ -1,9 +1,8 @@
 ---
 root_folder: "/docs/"
 sections:
-- Magazines and Journals
+- magazines
 - getting-started
-- 'Websites, blogs and on-line Newsletters '
 - local-suppliers
 - youtube
 - faq
