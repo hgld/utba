@@ -29,6 +29,6 @@ Apply to be mentee with  [John Coffman ](https://airtable.com/shrvYk3IFuDjjPwQr)
 
 I’ve been managing honey bees in both urban and rural settings for fifteen years. Currently I tend hives with my partner John Coffman at the Humber Arboretum and both campuses of Humber College, all in Toronto, and I mentor novice beekeepers in a number of rural locations. I run workshops on bees and sustainable beekeeping with a particular emphasis on caring for bees in the city using organic and ecological methods. For a number of years I was the Education Chair at the Toronto Beekeeping Collective. For the YMCA’s Cedar Glen Outdoor Centre near Nobleton I developed, and for three years taught, a weekly children's summer programme on bees and beekeeping. I developed the Sustainable Urban Beekeeping course at Humber Arboretum’s Centre for Urban Ecology and have taught it for four years. A mix of classroom presentations, hands-on workshops and bee yard visits, the SUB course is 45 hours long and follows the beekeeping year. I would like to offer a different sort of mentorship arrangement through UTBA where, instead of you visiting my bee yard, I visit you and your hive or hives. I am located on the subway line at Old Mill station and ideally your bees are in west-end or central Toronto and easily reached by TTC.
 
-Apply to be a mentee with [Fran Freeman](https://airtable.com/shrLT4VWG72XDOZN4)
+Apply to be a mentee with [Fran Freeman](https://airtable.com/shroNZmRUuCyBmccb)
 
 ***
