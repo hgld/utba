@@ -2,7 +2,7 @@
 excerpt = ""
 layout = "docs"
 title = "Magazines and Journals "
-weight = 3
+weight = 1
 
 +++
 **Magazines and Journals**
