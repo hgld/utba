@@ -5,4 +5,4 @@ title = "Local suppliers"
 weight = 4
 
 +++
-This page is under construction. Please check back soon for a map of local suppliers.
+Here is a [map](https://www.atlistmaps.com/map/d821d0ad-4b4f-44cb-ad38-00ad428dfc81) of some suppliers close to Toronto. 
