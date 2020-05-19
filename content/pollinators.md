@@ -37,3 +37,7 @@ _Creating a prairie garden_ (great for hot dry summers) - [http://www.creditvall
 _A Land Owner’s Guide to Conserving Native Pollinators in Ontario_ [http://www.feedthebees.org/wp-content/uploads/2013/03/A-Landowners-Guide-to-Conserving-Native-Pollinators-in-Ontario.pdf](http://www.feedthebees.org/wp-content/uploads/2013/03/A-Landowners-Guide-to-Conserving-Native-Pollinators-in-Ontario.pdf "http://www.feedthebees.org/wp-content/uploads/2013/03/A-Landowners-Guide-to-Conserving-Native-Pollinators-in-Ontario.pdf")
 
 _Pollinator Plant Guide for Toronto_ [http://torontobotanicalgarden.ca/wp-content/uploads/2015/04/2015-Pollinator-Plant-guide.pdf](http://torontobotanicalgarden.ca/wp-content/uploads/2015/04/2015-Pollinator-Plant-guide.pdf "http://torontobotanicalgarden.ca/wp-content/uploads/2015/04/2015-Pollinator-Plant-guide.pdf")
+
+_City of Toronto Pollinator Strategy_ 
+
+[https://www.toronto.ca/services-payments/water-environment/environmentally-friendly-city-initiatives/reports-plans-policies-research/draft-pollinator-strategy/](https://www.toronto.ca/services-payments/water-environment/environmentally-friendly-city-initiatives/reports-plans-policies-research/draft-pollinator-strategy/ "https://www.toronto.ca/services-payments/water-environment/environmentally-friendly-city-initiatives/reports-plans-policies-research/draft-pollinator-strategy/")
