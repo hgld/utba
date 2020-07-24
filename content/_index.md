@@ -25,10 +25,9 @@ sections:
     - label: Learn more
       url: "/docs/getting-started"
   - title: 'Meetings, Events and Networking '
-    content: |-
-      We strengthen our beekeeping community through networking and learning.
-
-      Due to the COVID-19 pandemic our next meeting is a Zoom meeting.
+    content: "We strengthen our beekeeping community through networking and learning.
+      \ \n**_Hear the how, when, and what of Varroa treatment by Dr. Samuel Ramsey.
+      \ Tuesday August 4th,  7 p.m. via our next meeting on Zoom._**  "
     actions:
     - label: Next Meeting
       url: https://www.facebook.com/groups/urbantorontobeekeepers/events/
@@ -45,5 +44,6 @@ layout: home
 menu:
   main:
     weight: 1
+draft: true
 
 ---
