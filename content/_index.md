@@ -25,9 +25,7 @@ sections:
     - label: Learn more
       url: "/docs/getting-started"
   - title: 'Meetings, Events and Networking '
-    content: "We strengthen our beekeeping community through networking and learning.
-      \ \n**_Hear the how, when, and what of Varroa treatment by Dr. Samuel Ramsey.
-      \ Tuesday August 4th,  7 p.m. via our next meeting on Zoom._**  "
+    content: 'Join us online for our monthly meetings using Zoom '
     actions:
     - label: Next Meeting
       url: https://www.facebook.com/groups/urbantorontobeekeepers/events/
