@@ -9,9 +9,9 @@ title = "Coordinating Committee "
 
 The 2020 members of the UTBA Coordinating Committee include:
 
-Chair: Jennifer Penney
+Acting Chair: Michelle Wolfson
 
-Vice-chair: Michelle Wolfson
+Vice-chair: Marion Whittam
 
 Treasurer: Melanie Wolicki
 
@@ -19,9 +19,9 @@ Secretary: Lucina Crawford
 
 Membership and Mentorship Coordinator: Renée Nadeau
 
-Meeting Coordinators: Lucina Crawford and Alin Dumitresco
+Meeting Coordinators: Lucina Crawford 
 
-BEE Educated Coordinators: Terry and Marion Whittam
+BEE Educated Coordinators: Marion Whittam
 
 Events Coordinator: Michelle Wolfson
 
