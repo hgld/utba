@@ -1,4 +1,5 @@
 +++
+draft = true
 img_path = ""
 layout = "page"
 subtitle = ""
@@ -25,3 +26,7 @@ Within a year UTBA branched out beyond the monthly meetings:
 * In 2018, we organized two day-long Honey Tasting courses at the Humber Arboretum with super taster Dan Douma. We also started adding BEE Educated sessions to our monthly meetings to meet the needs of new beekeepers looking for more basic guidance. We also started to do research on local beekeeping regulations in other jurisdictions as alternatives to the 30-metre rule in the Ontario Bees Act, which makes it almost impossible to legally keep bees in the city. And one of our members was elected to the Board of Directors of the Ontario Beekeepers’ Association, to help represent small-scale and urban beekeepers.
 * In 2019, we collaborated with the Toronto District Beekeepers’ Association and organized the annual OBA Summer Meeting with pre-eminent honeybee researcher Tom Seeley as our keynote speaker. More than 80 Ontario beekeepers attended the daylong event. In addition to presentations by honeybee researchers, and practical demonstrations by local beekeepers, the meeting included tours of two nearby apiaries managed by UTBA members Fran Freeman and John Coffman, as well as a queen auction.
 * In 2020, like many other organizations we have had to adapt to Covid-19 restrictions and have started offering virtual meetings using Zoom. We have planned a new Mentorship Program, which won’t be rolled out in its initial form (hands-on mentoring) but which we hope will be able to take place on-line. We are engaging a much wider range of UTBA members in organizing UTBA meetings and events, have expanded our Coordinating Committee and are updating and reworking our website and other forms of outreach to make them more useful for our members.
+
+UTBA Co-Ordinating Meeting Minutes
+
+[January 2021](/images/utba-january-2021-minutes.pdf)
