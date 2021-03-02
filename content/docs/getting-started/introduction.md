@@ -19,5 +19,7 @@ You'll need to:
 * Recognize the value of inspection goals and good record keeping
 * Understand the process of nectar collection, ripening and honey extraction
 * Be able to prepare your colonies for winter
+* Be aware of Ontario legislation that covers beekeeping. 
+  * [The Ontario Bees Act](https://www.ontario.ca/laws/statute/90b06)
 
 So how do you get to where you need to be?  We recommend a combination of textbooks, videos, classes, hands on practice and mentoring. Joining a local beekeeping can connect you to all of these things.
