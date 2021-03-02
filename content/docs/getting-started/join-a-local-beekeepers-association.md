@@ -11,3 +11,5 @@ If you live in Toronto:
 * Join the [Toronto District Beekeeper's Association](https://www.ontariobee.com/community/local-beekeepers-associations/toronto-district-beekeepers-association)
 
 If you are outside of Toronto check the [OBA for a list of local clubs](https://www.ontariobee.com/community/local-beekeepers-associations)
+
+Join the [Ontario Beekeeper's Association](https://www.ontariobee.com/new-member-signup) They are an advocate for beekeepers and offer affordable liability insurance. 
