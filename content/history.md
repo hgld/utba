@@ -29,3 +29,7 @@ Within a year UTBA branched out beyond the monthly meetings:
 UTBA Co-Ordinating Meeting Minutes
 
 [November 2020](/images/utba-coordinating-committee-minutes-november-24-2020-meeting.pdf)
+
+UTBA Monthly Zoom Meeting Recordings
+
+[June 2021](https://youtu.be/1avUoVlaifs)
