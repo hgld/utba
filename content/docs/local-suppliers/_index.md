@@ -1,4 +1,5 @@
 +++
+draft = true
 excerpt = ""
 layout = "docs"
 title = "Local suppliers"
@@ -12,6 +13,4 @@ weight = 4
 5. [Humble Bee](http://humblebee.buzz), open by appointment
 6. [Barks Apiaries](https://barksapiaries.ca) 1503 Snow Valley Road  
    Minesing, Ontario
-7. [Dickie Bee](https://dickeybeehoney.com) 4031 3rd Line
-
-   Cookstown, Ontario, L0L 1L0
+7. [Dickie Bee](https://dickeybeehoney.com) 4031 3rd Line Cookstown, Ontario, L0L 1L0
