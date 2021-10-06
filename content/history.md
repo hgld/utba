@@ -33,3 +33,5 @@ UTBA Co-Ordinating Meeting Minutes
 UTBA Monthly Zoom Meeting Recordings
 
 [June 2021](https://youtu.be/1avUoVlaifs)
+
+[October 2021](https://us02web.zoom.us/rec/share/oQraP_TO4nAid-TJvBxnXMpdxF4qg4oIWeKRJO5T-dtlhwJ1Ysl8QcdPt4nq9CA._x7Y-lHCHP3uQrA5)
