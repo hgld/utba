@@ -34,6 +34,6 @@ UTBA Monthly Zoom Meeting Recordings
 
 [June 2021](https://youtu.be/1avUoVlaifs)
 
-[October 2021](https://studio.youtube.com/channel/UCogfbgbi8QPVKdGCqolgU8Q/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D)
+[October 2021](https://youtu.be/S8APsLMeyNE)
 
 [November 2021](https://youtu.be/N2Fv1KiF4pM)
