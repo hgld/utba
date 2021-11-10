@@ -31,7 +31,7 @@ Members at Large: John Coffman and Ralf Rohrich
 
 Other contributors to the work of the Coordinating Committee, but not formal members include:
 
-Email Manager: Fran Freeman
+Email Manager: Michelle Wolfson 
 
 Communications and Website Management; Henry Dillon, Michelle Wolfson and Daniel Rehac
 
@@ -39,8 +39,8 @@ Communications and Website Management; Henry Dillon, Michelle Wolfson and Daniel
 
 **President/Chair**
 
-*  Convene quarterly Coordinating Committee (CC) Meetings and teleconferences as needed
-*  Develop agendas for these meetings and ensure that meeting notes/minutes are kept and distributed to CC members
+* Convene quarterly Coordinating Committee (CC) Meetings and teleconferences as needed
+* Develop agendas for these meetings and ensure that meeting notes/minutes are kept and distributed to CC members
 * Take overall responsibility to ensure that the work of the CC is being done
 * Liaise with other local beekeepers’ associations (e.g. TDBA) and the Ontario Beekeepers’ Association.
 * Report to the UTBA membership about significant activities/events involving the OBA and other beekeeper organizations (such as the Canadian Honey Council, etc.)
@@ -48,14 +48,14 @@ Communications and Website Management; Henry Dillon, Michelle Wolfson and Daniel
 **Vice-President/Vice-Chair**
 
 * Share responsibilities with the President/Chair as agreed, or to take over responsibilities of the President/Chair if the latter is unable to do them for a period, or steps down
-*  Ensure that content on the UTBA website is up-to-date.
+* Ensure that content on the UTBA website is up-to-date.
 
 **Treasurer**
 
 * Receive and deposit member fees
 * Keep and update list of paid-up UTBA members, and make this available to other CC members
 * Pay out expenses such as honoraria for speakers, supplies for meetings, website hosting fees, expenses associated with CC meetings, etc.
-*  Periodically report on UTBA finances to the CC and to the UTBA membership
+* Periodically report on UTBA finances to the CC and to the UTBA membership
 
 **Meeting Coordinator(s)**
 
