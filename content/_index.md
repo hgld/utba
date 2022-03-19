@@ -31,7 +31,7 @@ sections:
       url: https://www.facebook.com/groups/urbantorontobeekeepers/events/
   - title: Beekeeping Resources
     content: |-
-      The UTBA has collected a large body of resources that will be of interest to beekeepers of any experience level - including scientific research, local beekeeping supplier directory. Click [here ](https://drive.google.com/file/d/19xAmuBy9BMDLsZ8oFQEWDS0T81d3PU04/view?usp=sharing)to download our beekeeping calendar ![](/images/screen-shot-2022-03-19-at-6-57-27-pm.png)
+      The UTBA has collected a large body of resources that will be of interest to beekeepers of any experience level - including scientific research, local beekeeping supplier directory. Click [here](https://drive.google.com/file/d/19xAmuBy9BMDLsZ8oFQEWDS0T81d3PU04/view?usp=sharing)![](/images/screen-shot-2022-03-19-at-6-57-27-pm.png)
 
       .
     actions:
