@@ -32,7 +32,8 @@ sections:
   - title: Beekeeping Resources
     content: The UTBA has collected a large body of resources that will be of interest
       to beekeepers of any experience level - including scientific research, local
-      beekeeping supplier directory, and more.
+      beekeeping supplier directory, and our [Beekeeping Calendar for Toronto and
+      the GTA ](https://drive.google.com/drive/folders/1KsO3q4So2qHrxNpdGnhiH4MgpZfj08hs)
     actions:
     - label: Learn More
       url: "/docs/"
