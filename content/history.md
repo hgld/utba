@@ -30,6 +30,8 @@ UTBA Co-Ordinating Meeting Minutes
 
 [November 2020](/images/utba-coordinating-committee-minutes-november-24-2020-meeting.pdf)
 
-The UTBA records it's monthly meetings and they are posted after the event. Subscribe to our channel. 
+[January 2022](/images/utba-coordinating-committee-january-2022.pdf)
+
+The UTBA records it's monthly meetings and they are posted after the event. Subscribe to our channel.
 
 [UTBA Monthly Zoom Meeting Recordings](https://www.youtube.com/channel/UCogfbgbi8QPVKdGCqolgU8Q)
