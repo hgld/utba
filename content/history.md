@@ -32,7 +32,7 @@ UTBA Co-Ordinating Meeting Minutes
 
 [January 2022](/images/utba-coordinating-committee-january-2022.pdf)
 
-March 2022
+[March 2022](/images/utba-march-25-2022-coordinating-committee-meeting-minutes.pdf)
 
 The UTBA records it's monthly meetings and they are posted after the event. Subscribe to our channel.
 
