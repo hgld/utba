@@ -13,7 +13,7 @@ Acting Chair: Michelle Wolfson
 
 Vice-chair: Marion Whittam
 
-Treasurer: Melanie Wolicki
+Treasurer: Sheila Miller
 
 Secretary: Lucina Crawford
 
@@ -31,7 +31,7 @@ Members at Large: John Coffman and Ralf Rohrich
 
 Other contributors to the work of the Coordinating Committee, but not formal members include:
 
-Email Manager: Michelle Wolfson 
+Email Manager: Michelle Wolfson
 
 Communications and Website Management; Henry Dillon, Michelle Wolfson and Daniel Rehac
 
