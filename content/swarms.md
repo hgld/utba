@@ -55,4 +55,4 @@ Here are some common yellow and black striped insects that are local to Toronto.
 
 **Become A Swarm Catcher**
 
-Do you want to be added to the UTBA list of member swarm catchers or members who performs extractions? Contact us at [info@urbantorontobeekeepers.org](mailto:info@urbantorontobeekeepers.org)
+Do you want to be added to the UTBA list of member swarm catchers or members who performs extractions? Members are welcome to submit their information [here](https://docs.google.com/spreadsheets/d/12UjM9dAZW3gVXTORo3a873ptZdmz2KCQVOjKdmTjow8/edit?usp=sharing)
