@@ -22,4 +22,4 @@ All memberships are valid for 12 months from the time of purchase. We offer two 
 * **Full:** $25 per year - Choose this membership if you're an adult, fully employed and are not a full time student.
 * **Reduced:** $15 per year - Choose this membership if you're a full time student, underemployed or retired.
 
-You can pay by credit card using the buttons below. Your membership will renew automatically. You can cancel your membership at any time by emailing treasurer@urbantorontobeekeepers.org
+You can pay by credit card using the buttons below. Your membership will renew automatically. You can manage and cancel your membership at any time by visiting our [Billing Portal](https://billing.stripe.com/p/login/8wM5kSgaO3eb5yw144). If you have any questions or problems email treasurer@urbantorontobeekeepers.org
