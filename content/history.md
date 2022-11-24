@@ -37,3 +37,7 @@ UTBA Co-Ordinating Meeting Minutes
 The UTBA records it's monthly meetings and they are posted after the event. Subscribe to our channel.
 
 [UTBA Monthly Zoom Meeting Recordings](https://www.youtube.com/channel/UCogfbgbi8QPVKdGCqolgU8Q)
+
+Marion Whittham created this monthly recap of topics usually covered in our bee educated sessions 
+
+Recap
